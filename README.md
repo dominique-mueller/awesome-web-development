@@ -117,7 +117,7 @@ Architectural Patterns (e.g. MVC, MVP, MVVM)
 **[JavaScript for impatient programmers (by Axel Rauschmayer)](https://exploringjs.com/impatient-js/toc.html)**<br>
 Introduction to the JavaScript language, covering essential features up to and including ES2021
 
-**[Deep JavaScript: Theory and techniques (by Axel Rauschmayer)]()https://exploringjs.com/deep-js/toc.html**<br>
+**[Deep JavaScript: Theory and techniques (by Axel Rauschmayer)](https://exploringjs.com/deep-js/toc.html)**<br>
 Advanced techniques for the JavaScript language, up to and including ES2021
 
 **[Tackling TypeScript: Upgrading from JavaScript (by Axel Rauschmayer)](https://exploringjs.com/tackling-ts/toc.html)**<br>

@@ -18,6 +18,14 @@ Overview of HTML elements and their attributes, with explanations and examples
 **[HTML5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)**<br>
 Common attributes and operations for HTML canvas elements
 
+### Articles
+
+**[HTML5 Boilerplate](https://html5boilerplate.com)** ([GitHub](https://github.com/h5bp/html5-boilerplate))<br>
+HTML5 boilerplate for fast, robust and adaptable web apps or websites
+
+**[My current HTML Boilerplate (by Manuel Matuzovic)](https://www.matuzo.at/blog/html-boilerplate)**<br>
+Custom HTML boilerplate
+
 <br><br><br>
 
 ## CSS / SASS
@@ -39,21 +47,15 @@ List of all available CSS cursor property values, with examples
 **[Easings Functions Cheat Sheet](https://easings.net)** ([GitHub](https://github.com/ai/easings.net))<br>
 Overview of easing functions, with graphs & examples & code snippets
 
-**[postcss-preset-env](https://preset-env.cssdb.org/features)** ([GitHub](https://github.com/csstools/postcss-preset-env))<br>
-List of brand new CSS properties, with explanations and examples
-
-**[CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)**<br>
-A collection of CSS tips (e.g. resets, global box-sizing, aligning, font sizing, ...)
-
-**[Advanced SASS](https://gist.github.com/jareware/4738651)**<br>
-Advanced techniques and tips for SASS
+**[Modern CSS features (postcss-preset-env)](https://preset-env.cssdb.org/features)** ([GitHub](https://github.com/csstools/postcss-preset-env))<br>
+List of modern CSS properties, with explanations and examples
 
 <br>
 
 ### Guidelines / Styleguides
 
 **[CSS Guidelines (by Harry Roberts)](https://cssguidelin.es)**<br>
-High-level advice and guidelines for writing sane, manageable, scalable CSS
+High-level advice and guidelines for writing sane, manageable and scalable CSS
 
 **[Maintanable CSS (by Adam Silver)](https://maintainablecss.com)** ([GitHub](https://github.com/adamsilver/maintainablecss.com))<br>
 An approach to writing modular, scalable and maintanable CSS
@@ -84,6 +86,19 @@ List of ITCSS ("Inverted Triangle CSS" architecture) resources
 
 <br>
 
+### Development
+
+**[CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)**<br>
+A collection of CSS tips (e.g. resets, global box-sizing, aligning, font sizing, ...)
+
+**[Advanced SASS](https://gist.github.com/jareware/4738651)**<br>
+Advanced techniques and tips for SASS
+
+**[Global "border-box" box model](https://www.paulirish.com/2012/box-sizing-border-box-ftw)**<br>
+Using CSS `box-sizing: border-box` as default everywhere
+
+<br>
+
 ### Performance
 
 **[CSS Triggers](https://csstriggers.com)**<br>
@@ -92,6 +107,32 @@ List of CSS properties and the effect of changing them (layout, paint, composite
 <br><br><br>
 
 ## JavaScript / TypeScript
+
+### Books
+
+**[Learning JavaScript Design Patterns (by Addy Osmani)](https://addyosmani.com/resources/essentialjsdesignpatterns/book)**<br>
+Write beautiful, structured and maintanable JavaScript by applying Design Patterns (e.g. Modules, Observers, Facades, Mediators) and
+Architectural Patterns (e.g. MVC, MVP, MVVM)
+
+**[JavaScript for impatient programmers (by Axel Rauschmayer)](https://exploringjs.com/impatient-js/toc.html)**<br>
+Introduction to the JavaScript language, covering essential features up to and including ES2021
+
+**[Deep JavaScript: Theory and techniques (by Axel Rauschmayer)]()https://exploringjs.com/deep-js/toc.html**<br>
+Advanced techniques for the JavaScript language, up to and including ES2021
+
+**[Tackling TypeScript: Upgrading from JavaScript (by Axel Rauschmayer)](https://exploringjs.com/tackling-ts/toc.html)**<br>
+Quick start for TypeScript, covering essentials, followed by advanced topics
+
+**[Eloquent JavaScript (by Marijn Haverbeke)](https://eloquentjavascript.net)**<br>
+A modern introduction to programming with JavaScript
+
+**[JavaScript. The Core (by Dmitry Soshnikov)](https://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition)**<br>
+Core concepts and components of the JavaScript language
+
+**[Robust Client-Side JavaScript](https://molily.de/robust-javascript)**<br>
+Achieve robustness in complex client-side JavaScript application
+
+<br>
 
 ### Documentation
 
@@ -111,10 +152,10 @@ Overview of TypeScript utility types (version 3.7+), with examples
 
 ### Guidelines / Styleguides
 
-**[Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)**
+**[Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)**<br>
 Clean Code concepts adapted for JavaScript
 
-**[Clean Code TypeScript](https://labs42io.github.io/clean-code-typescript) ([GitHub](https://github.com/labs42io/clean-code-typescript))**
+**[Clean Code TypeScript](https://labs42io.github.io/clean-code-typescript) ([GitHub](https://github.com/labs42io/clean-code-typescript))**<br>
 Clean Code concepts adapted for TypeScript
 
 <br>
@@ -222,10 +263,13 @@ Compatibility of web platform features (HTML, CSS, JavaScript) across e-mail app
 
 ## Performance
 
-### Resources
+### Articles
 
 **[Caching Best Practices & max-age gotchas (by Jake Archibald)](https://jakearchibald.com/2016/caching-best-practices)**<br>
 A deeper look at caching, including HTTP headers and service workers
+
+**[The Complete Guide to Reducing Page Weight](https://www.sitepoint.com/complete-guide-reducing-page-weight/)**<br>
+Article with steps in how to reduce page weight in order to improve performance
 
 <br>
 
@@ -306,21 +350,105 @@ Generate request maps for websites
 **[Mozilla Observatory](https://observatory.mozilla.org)**<br>
 Check security configuration of a website (HTTP, TLS, SSH)
 
-**[SSL Server Test](https://www.ssllabs.com/ssltest/)**<br>
+**[SSL Server Test](https://www.ssllabs.com/ssltest)**<br>
 Check the SSL configuration of a website
 
-**[Security Headers](https://securityheaders.com/)**<br>
+**[Security Headers](https://securityheaders.com)**<br>
 Check security of HTTP headers for a website
 
-**[HSTS Preload](https://hstspreload.org/)**<br>
+**[HSTS Preload](https://hstspreload.org)**<br>
 Check HSTS preload status and aligibility of a website
 
 <br>
 
 ### Infrastructure
 
-**[intoDNS](http://www.intodns.com/)**<br>
+**[intoDNS](http://www.intodns.com)**<br>
 Check DNS server and mail server health
 
-**[Healthchecks](https://healthchecks.io/)**<br>
+**[Healthchecks](https://healthchecks.io)**<br>
 Monitor websites via cron jobs
+
+<br><br><br>
+
+## Architecture
+
+**[Ports ans Adapters Pattern (Hexagonal Architecture)](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html)**<br>
+Article about the Hexagonal Architecture, with explanations, props & cons, and implementation hints
+
+<br><br><br>
+
+## User Experience
+
+### Visual Design
+
+**[Ensuring consistent spacing in your UI](https://getaround.tech/design-system-spacings)**<br>
+Article on how to choose, define and ensure consistent spacing in user interfaces
+
+**[Checkbox Text Alignment](https://twitter.com/adamwathan/status/1217864323466432516)**<br>
+CSS trick for proper checkbox text alignment
+
+<br>
+
+### Typography
+
+**[Typography Handbook](http://typographyhandbook.com)**<br>
+A concise, referential guide on best web typographic practices
+
+**[Font Loading Checklist](https://www.zachleat.com/web/font-checklist)**<br>
+Article about how to load fonts in a user-friendly and performant way
+
+<br>
+
+### Accessibility
+
+**[Web Components punch list](https://www.tpgi.com/web-components-punch-list)**<br>
+Article about accessibility considerations for web component and custom control design
+
+**[Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts)**<br>
+Article about how to use and craft alt-text for images
+
+**[Creating Accessible SVGs](https://www.deque.com/blog/creating-accessible-svgs)**<br>
+Article about how to use SVGs in an accessible way
+
+<br><br><br>
+
+## Build Tools
+
+**[Speeding Up Webpack, Typescript Incremental Builds by 7x](https://medium.com/@kenneth_chau/speeding-up-webpack-typescript-incremental-builds-by-7x-3912ba4c1d15)**<br>
+Improve speed of Webpack builds that use TypeScript
+
+<br><br><br>
+
+## Git
+
+### Git
+
+**[Oh Shit, Git!?!](https://ohshitgit.com)**<br>
+How to fix mistakes in Git
+
+**[Flight rules for Git](https://github.com/k88hudson/git-flight-rules)**<br>
+Guide for Git, focusing on what to do when things go wrong
+
+**[Better Git configuration](https://blog.scottnonnenberg.com/better-git-configuration)**<br>
+Tips and tricks for configuring and using Git
+
+**[Signing Git commits with GPG on Windows](https://jamesmckay.net/2016/02/signing-git-commits-with-gpg-on-windows)**<br>
+Tutorial about setting up an dusing Git commit signing (e.g. for GitHub, GitLab) on Windows machines
+
+<br>
+
+### Git Flow
+
+**[Git Flow Cheat Sheet](https://danielkummer.github.io/git-flow-cheatsheet)**<br>
+Cheat sheet for Git Flow, an effient branching strategy for Git repositories
+
+<br><br><br>
+
+## Working
+
+**[How to create a good pull request](https://blog.alphasmanifesto.com/2016/07/11/how-to-create-a-good-pull-request)**<br>
+Best practices and tips on how to open a good pull request
+
+**[How to perform a good code review](https://blog.alphasmanifesto.com/2016/11/17/how-to-perform-a-good-code-review)**<br>
+Best practices and tips on how to do a good code review

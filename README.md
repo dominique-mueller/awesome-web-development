@@ -8,6 +8,131 @@ My personal list of web development websites, tools and resources
 
 <br><br><br>
 
+## HTML / JSX
+
+### Documentation
+
+**[HTML Reference](https://htmlreference.io)**<br>
+Overview of HTML elements and their attributes, with explanations and examples
+
+**[HTML5 Canvas Cheat Sheet](https://simon.html5.org/dump/html5-canvas-cheat-sheet.html)**<br>
+Common attributes and operations for HTML canvas elements
+
+<br><br><br>
+
+## CSS / SASS
+
+### Documentation
+
+**[CSS Reference](https://cssreference.io)**<br>
+Overview of CSS properties, with explanations and examples
+
+**[CSS Reference](http://tympanus.net/codrops/css_reference)**<br>
+Overview of CSS properties, pseudo classes, functions, data types, concepts and rules, with explanations and examples
+
+**[CSS Cheat Sheet](https://adam-marsden.co.uk/css-cheat-sheet)** ([GitHub](https://github.com/AdamMarsden/css-cheat-sheet))<br>
+Overview of CSS selectors & properties, with links to further documentation
+
+**[CSS Cursors](https://csscursor.info)** ([GitHub](https://github.com/wesbos/CSS-Cursors))<br>
+List of all available CSS cursor property values, with examples
+
+**[Easings Functions Cheat Sheet](https://easings.net)** ([GitHub](https://github.com/ai/easings.net))<br>
+Overview of easing functions, with graphs & examples & code snippets
+
+**[postcss-preset-env](https://preset-env.cssdb.org/features)** ([GitHub](https://github.com/csstools/postcss-preset-env))<br>
+List of brand new CSS properties, with explanations and examples
+
+**[CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)**<br>
+A collection of CSS tips (e.g. resets, global box-sizing, aligning, font sizing, ...)
+
+**[Advanced SASS](https://gist.github.com/jareware/4738651)**<br>
+Advanced techniques and tips for SASS
+
+<br>
+
+### Guidelines / Styleguides
+
+**[CSS Guidelines (by Harry Roberts)](https://cssguidelin.es)**<br>
+High-level advice and guidelines for writing sane, manageable, scalable CSS
+
+**[Maintanable CSS (by Adam Silver)](https://maintainablecss.com)** ([GitHub](https://github.com/adamsilver/maintainablecss.com))<br>
+An approach to writing modular, scalable and maintanable CSS
+
+**[CSS Guidelines (by Chris Pearce)](https://github.com/chris-pearce/css-guidelines)**<br>
+Sensible CSS guidelines for large scale projects
+
+**[CSS Code Guide (by Mark Otto)](https://codeguide.co/#css)** ([GitHub](https://github.com/mdo/code-guide))<br>
+Standards for developing consistent, flexible, and sustainable CSS
+
+**[Idiomatic CSS (by Nicolas Gallagher)](https://github.com/necolas/idiomatic-css)**<br>
+Principles of writing consistent, idiomatic CSS
+
+**[CSS / SASS Styleguide (Airbnb)](https://github.com/airbnb/css)**<br>
+A mostly reasonable approach to CSS and Sass
+
+**[CSS Styleguide (Trello)](https://github.com/trello/trellisheets/blob/master/styleguide.md)**<br>
+Guidelines and architecture for writing clean and maintanable CSS
+
+**[SASS Guidelines (by Kitty Giraudel)](https://sass-guidelin.es)** ([GitHub](https://github.com/KittyGiraudel/sass-guidelines))<br>
+Opinionated Styleguide for writing sane, maintanable and scalable SASS
+
+**[CSS Architecture](https://github.com/jareware/css-architecture)**<br>
+Rules for a robust, scalable CSS architecture
+
+**[ITCSS Resources](https://github.com/ahmadajmi/awesome-itcss)**<br>
+List of ITCSS ("Inverted Triangle CSS" architecture) resources
+
+<br>
+
+### Performance
+
+**[CSS Triggers](https://csstriggers.com)**<br>
+List of CSS properties and the effect of changing them (layout, paint, composite) in browser engines (Blink, Gecko, Webkit, EdgeHTML)
+
+<br><br><br>
+
+## JavaScript / TypeScript
+
+### Documentation
+
+**[Modern JavaScript Cheat Sheet](https://mbeaudru.github.io/modern-js-cheatsheet)**<br>
+Overview of new ES6 JavaScript features, with examples
+
+**[ES6 Features](http://es6-features.org)**<br>
+Overview of new ES6 JavaScript features, with examples
+
+**[TypeScript Cheat Sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet)**<br>
+Overview of modern TypeScript, with explanations and examples
+
+**[TypeScript Utility Types Cheat Sheet](https://www.elsewebdevelopment.com/typescript-3-7-utility-types-printable-pdf-cheat-sheet)**<br>
+Overview of TypeScript utility types (version 3.7+), with examples
+
+<br>
+
+### Guidelines / Styleguides
+
+**[Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)**
+Clean Code concepts adapted for JavaScript
+
+**[Clean Code TypeScript](https://labs42io.github.io/clean-code-typescript) ([GitHub](https://github.com/labs42io/clean-code-typescript))**
+Clean Code concepts adapted for TypeScript
+
+<br>
+
+### Articles
+
+**[Deploying ES2015+ Code in Production today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today)**<br>
+Differential Loading techniques for JavaScript bundles with different language version support
+
+<br>
+
+### Performance
+
+**[Layout Trashing Cheat Sheet](https://devhints.io/layout-thrashing)**<br>
+List of JavaScript operations that cause layout flushing (also sometimes called trashing)
+
+<br><br><br>
+
 ## APIs
 
 ### HTTP Status Codes
@@ -116,11 +241,11 @@ Calculate performance budgets (maximum asset sizes) based on given loading times
 Visualize Chrome DevTools timeline recordings (within the browser)
 
 **[Lighthouse CI Diff](https://googlechrome.github.io/lighthouse-ci/viewer/)**<br>
-Compare two Lighthouse CI reports
+Compare two [Lighthouse](https://developers.google.com/web/tools/lighthouse) CI reports
 
 <br>
 
-### Optimize assets
+### Assets
 
 **[Squoosh](https://squoosh.app/)**<br>
 Convert and optimize images

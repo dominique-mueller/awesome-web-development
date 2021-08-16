@@ -247,6 +247,13 @@ List of all possible aotofillable form fields
 
 <br>
 
+### E-Mails
+
+**[Can I email ...](https://www.caniemail.com/)**<br>
+Compatibility of web platform features (HTML, CSS, JavaScript) across e-mail applications (e.g. GMail, Outlook, Apple Mail ...), down to specific browser versions
+
+<br>
+
 ### Frameworks / Libraries
 
 **[Compatibility matrix for Angular ecosystem](https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3)**<br>
@@ -254,10 +261,10 @@ Compatibility / interoperability of Angular versions to Angular CLI, NodeJS, Typ
 
 <br>
 
-### E-Mails
+### Assistive technologies
 
-**[Can I email ...](https://www.caniemail.com/)**<br>
-Compatibility of web platform features (HTML, CSS, JavaScript) across e-mail applications (e.g. GMail, Outlook, Apple Mail ...), down to specific browser versions
+**[Assistive technology compatibility](https://www.powermapper.com/tests)**<br>
+Compatibility of accessibility technologies across screen readers (e.g. NVDA, JAWS, VoiceOver, ...)
 
 <br><br><br>
 
@@ -398,12 +405,56 @@ A concise, referential guide on best web typographic practices
 **[Font Loading Checklist](https://www.zachleat.com/web/font-checklist)**<br>
 Article about how to load fonts in a user-friendly and performant way
 
+<br><br><br>
+
+## Accessibility
+
+**[WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref)**<br>
+Quick reference to Web Content Accessibility Guidelines (WCAG), covering requirements (success criteria) and techniques
+
+**[Inclusive Design Principles](https://inclusivedesignprinciples.org)**<br>
+A broad approach to inclusive design by putting people first, non-technical
+
+**[Accessibility Developer Guide](https://www.accessibility-developer-guide.com)**<br>
+Guidelines for accessibility, covering tooling setup, knowledge and examples
+
+**[The A11Y Project](https://www.a11yproject.com)**<br>
+Community-driven effort to make digital accessibility easier, providing posts, checklists and resources
+
+**[eBay MIND Patterns](https://ebay.gitbook.io/mindpatterns)**<br>
+Foundational accessibility guidance via the MIND (Message, Input, Navigation, Disclosure) pattern
+
+**[A11Y Style Guide](https://a11y-style-guide.com/style-guide) ([GitHub](https://github.com/cehfisher/a11y-style-guide))**<br>
+Accessibility Style Guide covering UI components, forms, media, structure and more
+
+**[Accessibility Guidelines (by Vox Media)](http://accessibility.voxmedia.com)**<br>
+Accessibility checklists for design, engineering, project management, QA and editorial aspects
+
+**[Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet)**<br>
+Article condensing and explaining WCAG requirements, with implementation examples
+
+**[Inclusive Design Checklist](https://github.com/Heydon/inclusive-design-checklist)**<br>
+Checklist of inclusive design considerations, covering accessibility, performance, device support, interoperability, language
+
 <br>
 
-### Accessibility
+### Components
+
+**[Inclusive Components](https://inclusive-components.design)**<br>
+Pattern library of inclusive / accessibly components
+
+**[Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards) ([GitHub](https://github.com/davatron5000/a11y-nutrition-cards))**<br>
+Accessibility expectations for components (focus, labeling, keyboard)
 
 **[Web Components punch list](https://www.tpgi.com/web-components-punch-list)**<br>
 Article about accessibility considerations for web component and custom control design
+
+**[The Accessibility of Styled Form Controls](https://scottaohara.github.io/a11y_styled_form_controls)** ([GitHub](https://github.com/scottaohara/a11y_styled_form_controls))<br>
+How to style native form controls while keeping accessibility intact
+
+<br>
+
+### Media
 
 **[Alt-texts: The Ultimate Guide](https://axesslab.com/alt-texts)**<br>
 Article about how to use and craft alt-text for images

@@ -410,7 +410,7 @@ Article about how to load fonts in a user-friendly and performant way
 ## Accessibility
 
 **[WCAG Quick Reference](https://www.w3.org/WAI/WCAG21/quickref)**<br>
-Quick reference to Web Content Accessibility Guidelines (WCAG), covering requirements (success criteria) and techniques
+Customizable quick reference to Web Content Accessibility Guidelines (WCAG), covering requirements (success criteria) and techniques
 
 **[Inclusive Design Principles](https://inclusivedesignprinciples.org)**<br>
 A broad approach to inclusive design by putting people first, non-technical
@@ -424,7 +424,7 @@ Community-driven effort to make digital accessibility easier, providing posts, c
 **[eBay MIND Patterns](https://ebay.gitbook.io/mindpatterns)**<br>
 Foundational accessibility guidance via the MIND (Message, Input, Navigation, Disclosure) pattern
 
-**[A11Y Style Guide](https://a11y-style-guide.com/style-guide) ([GitHub](https://github.com/cehfisher/a11y-style-guide))**<br>
+**[A11Y Style Guide](https://a11y-style-guide.com/style-guide)** ([GitHub](https://github.com/cehfisher/a11y-style-guide))<br>
 Accessibility Style Guide covering UI components, forms, media, structure and more
 
 **[Accessibility Guidelines (by Vox Media)](http://accessibility.voxmedia.com)**<br>
@@ -443,7 +443,7 @@ Checklist of inclusive design considerations, covering accessibility, performanc
 **[Inclusive Components](https://inclusive-components.design)**<br>
 Pattern library of inclusive / accessibly components
 
-**[Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards) ([GitHub](https://github.com/davatron5000/a11y-nutrition-cards))**<br>
+**[Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards)** ([GitHub](https://github.com/davatron5000/a11y-nutrition-cards))<br>
 Accessibility expectations for components (focus, labeling, keyboard)
 
 **[Web Components punch list](https://www.tpgi.com/web-components-punch-list)**<br>

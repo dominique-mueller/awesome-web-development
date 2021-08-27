@@ -13,3 +13,6 @@ GitHub issue covering investigations of Airbnb developers regarding Webpack perf
 
 **[Comparison of Webpack source map plugins functionality](https://github.com/webpack/webpack/issues/2145#issuecomment-294361203)** _(old)_<br>
 GitHub issue comment listing Webpack source map plugins and comparing their functionalities
+
+**[[Tool] Create App](https://createapp.dev)**<br>
+Frontend build tool config generator (Webpack, Parcel and Snowpack), supporting various frameworks and other libraries

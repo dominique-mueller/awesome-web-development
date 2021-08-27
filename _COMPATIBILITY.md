@@ -17,7 +17,7 @@ Availability of web platform APIs for peer-to-peer functionality (e.g. WebRTC, D
 
 ## Web Platform (browser, server)
 
-**[Can I use ...](https://caniuse.com)**<br>
+**[[Tool] Can I use ...](https://caniuse.com)**<br>
 Compatibility of web platform features (HTML, CSS, JavaScript) across browsers (e.g. Chrome, Firefox, Edge, Safari, ...), down to specific browser versions
 
 **[Web Platform Feature Availability](https://paulirish.github.io/web-feature-availability)**<br>

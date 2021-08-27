@@ -1,4 +1,6 @@
-# JavaScript (TypeScript)
+# JavaScript
+
+Covering JavaScript, TypeScript, Node.js, npm
 
 <br>
 
@@ -42,6 +44,12 @@ Overview of modern TypeScript, with explanations and examples
 **[TypeScript Utility Types Cheat Sheet](https://www.elsewebdevelopment.com/typescript-3-7-utility-types-printable-pdf-cheat-sheet)**<br>
 Overview of TypeScript utility types (version 3.7+), with examples
 
+**[UI Events Testing Tool](https://w3c.github.io/uievents/tools/main.html)** ([GitHub](https://github.com/w3c/uievents))<br>
+View and test keyboard, mouse and focus events in great detail
+
+**[JavaScript Event KeyCodes](http://keycode.info)** ([GitHub](https://github.com/wesbos/keycodes))<br>
+Type a key and get the according JavaScript key code!
+
 <br>
 
 ## Guidelines / Styleguides
@@ -54,6 +62,13 @@ Clean Code concepts adapted for TypeScript
 
 <br>
 
+## Performance
+
+**[Layout Trashing Cheat Sheet](https://devhints.io/layout-thrashing)**<br>
+List of JavaScript operations that cause layout flushing (also sometimes called trashing)
+
+<br>
+
 ## Articles
 
 **[Deploying ES2015+ Code in Production today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today)**<br>
@@ -61,7 +76,7 @@ Differential Loading techniques for JavaScript bundles with different language v
 
 <br>
 
-## Performance
+## npm
 
-**[Layout Trashing Cheat Sheet](https://devhints.io/layout-thrashing)**<br>
-List of JavaScript operations that cause layout flushing (also sometimes called trashing)
+**[[Tool] Visualization of npm dependencies](https://npm.anvaka.com)** ([GitHub](https://github.com/anvaka/npmgraph.an))<br>
+Visualize dependency tree of an npm package, including licenses and maintainers

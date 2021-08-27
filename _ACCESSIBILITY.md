@@ -35,17 +35,20 @@ Checklist of inclusive design considerations, covering accessibility, performanc
 
 ## Colors
 
-**[Who Can Use](https://whocanuse.com)**<br>
+**[[Tool] Who Can Use](https://whocanuse.com)**<br>
 Check color combinations against vision issues, with hints to affected popuplation
 
-**[Color & Contrast Picker](https://kevingutowski.github.io/color.html)**<br>
+**[[Tool] Color & Contrast Picker](https://kevingutowski.github.io/color.html)**<br>
 Color picker with contrast ratio hints
 
-**[Color Contrast Checker](https://contrast-checker.vercel.app)**<br>
+**[[Tool] Color Contrast Checker](https://contrast-checker.vercel.app)**<br>
 Color contrast checker
 
-**[EightShapes Contrast Grid](https://contrast-grid.eightshapes.com)** ([GitHub](https://github.com/EightShapes/contrast-grid))<br>
+**[[Tool] EightShapes Contrast Grid](https://contrast-grid.eightshapes.com)** ([GitHub](https://github.com/EightShapes/contrast-grid))<br>
 Matrix of various background and foreground colors, testing for accessible contrast ratios
+
+**[[Tool] Accessible color palette builder](https://toolness.github.io/accessible-color-matrix)** ([GitHub](https://github.com/toolness/accessible-color-matrix))<br>
+Create accessible color palettes
 
 <br>
 
